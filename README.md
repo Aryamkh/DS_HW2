@@ -20,6 +20,6 @@ So i've used data/Teen_Mental_Health_Dataset.csv dataset
 you can see it's details with df.head()
 
 # questions :
-the questions are answered in the pdf file 
+the questions are answered in the DS_HW2.pdf
 
 
