@@ -14,5 +14,12 @@ Many features also have high-cardinality values, which makes modeling difficult.
 The dataset is better suited for classification, clustering, or recommendation tasks.  
 Regression would only work after heavy preprocessing and feature engineering.
 
+## New dataset
+
+So i've used data/Teen_Mental_Health_Dataset.csv dataset 
+you can see it's details with df.head()
+
+# questions :
+the questions are answered in the pdf file 
 
 
